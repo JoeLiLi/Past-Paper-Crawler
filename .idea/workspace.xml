@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dade86df-d5e0-4825-917d-80450004749c" name="Default Changelist" comment="">
+    <list default="true" id="dade86df-d5e0-4825-917d-80450004749c" name="Default Changelist" comment="Add executable">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Past Paper Crawler.app/Contents/Frameworks/Python.framework/Resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Past Paper Crawler.app/Contents/Frameworks/Python.framework/Versions/Current" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Past Paper Crawler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Past Paper Crawler - win.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +48,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.MenuFrames">
     <configuration name="MainGUI" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -286,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584887037924</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add executable">
+      <created>1584889913544</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584889913544</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +322,8 @@
     <MESSAGE value="Add git ignore" />
     <MESSAGE value="增加 Bug fixed 记录" />
     <MESSAGE value="优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="优化" />
+    <MESSAGE value="Add executable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add executable" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="42" width="1071" height="697" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584332946597">
@@ -320,11 +338,11 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="378" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.721@0.23.1280.721" timestamp="1584889256191" />
-    <state x="147" y="23" key="CommitChangelistDialog2" timestamp="1584889557571">
+    <state x="147" y="23" key="CommitChangelistDialog2" timestamp="1584889955373">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="147" y="23" key="CommitChangelistDialog2/0.23.1280.716@0.23.1280.716" timestamp="1584711475717" />
-    <state x="147" y="23" key="CommitChangelistDialog2/0.23.1280.721@0.23.1280.721" timestamp="1584889557571" />
+    <state x="147" y="23" key="CommitChangelistDialog2/0.23.1280.721@0.23.1280.721" timestamp="1584889955373" />
     <state x="147" y="23" key="CommitChangelistDialog2/0.23.1280.723@0.23.1280.723" timestamp="1584344382319" />
     <state width="1238" height="235" key="GridCell.Tab.0.bottom" timestamp="1584888492335">
       <screen x="0" y="23" width="1280" height="721" />
@@ -374,12 +392,12 @@
     <state x="141" y="23" width="997" height="715" key="SettingsEditor/0.23.1280.715@0.23.1280.715" timestamp="1584518851326" />
     <state x="141" y="23" width="997" height="716" key="SettingsEditor/0.23.1280.716@0.23.1280.716" timestamp="1584519690907" />
     <state x="141" y="23" width="997" height="721" key="SettingsEditor/0.23.1280.721@0.23.1280.721" timestamp="1584780090466" />
-    <state x="240" y="123" key="Vcs.Push.Dialog.v2" timestamp="1584889565943">
+    <state x="240" y="123" key="Vcs.Push.Dialog.v2" timestamp="1584889919504">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="240" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.715@0.23.1280.715" timestamp="1584518854261" />
     <state x="240" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.716@0.23.1280.716" timestamp="1584711478959" />
-    <state x="240" y="123" key="Vcs.Push.Dialog.v2/0.23.1280.721@0.23.1280.721" timestamp="1584889565943" />
+    <state x="240" y="123" key="Vcs.Push.Dialog.v2/0.23.1280.721@0.23.1280.721" timestamp="1584889919504" />
     <state x="294" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1584888984318">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
